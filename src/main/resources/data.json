@@ -1,0 +1,29 @@
+{
+    "womens": {
+        "firstName": ["Agnieszka", "Alicja", "Anna", "Dominia", "Edyta", "Iwona", "Joanna", "Monika", "Magda", "Wiktoria"],
+        "lastName": ["Nowak", "Kowalska", "Dudek", "Wisniewska", "Lewandowska"]
+    },
+    
+    "mens": {
+        "firstName": ["Andrzej", "Bartek", "Damian", "Filip", "Jarosław", "Kamil", "Piotr", "Paweł", "Mateusz", "Zbigniew"],
+        "lastName": ["Nowak", "Kowalski", "Kowalczyk", "Jankowski", "Dudek", "Wisniewski", "Lewandowski"]
+    },
+    
+    "addresses": [
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Tomasza Zana", "houseNumber": 5},
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Armii Krajowej", "houseNumber": 23},
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Elektryczna", "houseNumber": 233},
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Kameralna", "houseNumber": 243},
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Kasprowicza", "houseNumber": 4},
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Handlowa", "houseNumber": 26},
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Okopowa", "houseNumber": 63},
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Paderewskiego", "houseNumber": 33},
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Zachodnia", "houseNumber": 145},
+        {"state": "Poland", "province": "lubelskie", "city": "Lublin", "street": "Leonarda", "houseNumber": 6}
+    ],
+    
+    "emails": {
+        "email": ["email1@liamg.moc", "email2@liamg.moc", "email3@liamg.moc", "email4@liamg.moc", "email5@liamg.moc"]
+    }
+    
+}
